@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin    # Block access to the admin directory
+https://abdullahejaz.me/index.html
+
+# Allow search engine crawling of most content
+Allow: *
+
+# Optional: Specify crawl delay (adjust time as needed)
+Crawl-delay: 2   # Two seconds between requests by crawlers
